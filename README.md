@@ -47,10 +47,14 @@ This app is designed to:
 ### Final UI Screenshot
 ![Final UI](images/demo-screenshot.png)
 
-### Optional Interaction GIF
+
+
+
+
+### Interaction GIF
 ![App in Action](images/demo.gif)
 
-*(Record the advice changing on click for added polish.)*
+
 
 ---
 
